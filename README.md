@@ -11,3 +11,4 @@
  #3 Signing and validation of messages. Hash functions, Signature Scheme DSS. 
  
  
+All the folders containt separate README files for how to program works and how to run them. 
